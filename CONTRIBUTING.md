@@ -1,6 +1,6 @@
 ## Contributing
 
-**1.**  Fork [this](https://github.com/mandeepsinghkohli/Project Name.git) repository.
+**1.**  Fork [this](https://github.com/mandeepsinghkohli/Hactoberfest21.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
@@ -17,7 +17,7 @@ cd Project name
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/mandeepsinghkohli/Project Name
+git remote add upstream https://github.com/mandeepsinghkohli/Hacktoberfest21
 ```
 
 **5.** Check the remotes for this repository.
